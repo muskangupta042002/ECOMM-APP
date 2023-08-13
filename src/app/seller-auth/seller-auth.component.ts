@@ -14,3 +14,4 @@ export class SellerAuthComponent implements OnInit{
     console.warn(data)
   }
 }
+///home/akshay/new_proj/ecomm_proj/db.json
